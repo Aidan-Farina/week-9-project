@@ -14,10 +14,10 @@ ${description}
 
 
 * [Installation](./README.md/#installation)
-* [Usage](./README.md/#installation)
-* [Contributions](./README.md/#installation)
-* [Tests](./README.md/#installation)
-* [Questions](./README.md/#installation)
+* [Usage](./README.md/#usage)
+* [Contributions](./README.md/#contributions)
+* [Tests](./README.md/#tests)
+* [Questions](./README.md/#questions)
 
 
 ## Installation
